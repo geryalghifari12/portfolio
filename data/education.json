@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": " Bachelor of Applied Science (B.A.Sc.) in Electronics Engineering Technology",
+        "year": "2022 - 2026",
+        "description": "GPA 3.5 out of 4.0; Studied Applied Electronics Engineering with a focus on practical and project-based learning in electronics and programming"
+    },
+    {
+        "university": "SMK Negeri 1 Bintan Utara",
+        "logo": "images/smk-logo.png",
+        "major": "Vocational High School majoring in Electrical Installation Engineering",
+        "year": "2019 - 2022",
+        "description": "Completed an internship as an engineering trainee at Pantai Indah Lagoi Bintan, where I learned about electrical installation, AC maintenance, piping systems, and time management in real projects."
+    }
+]

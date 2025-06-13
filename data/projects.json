@@ -1,0 +1,10 @@
+[
+    {
+        "title": "IoT Health Monitoring System for Sports: Real-Time Heart Rate and Temperature Trackig",
+        "year": "2024",
+        "role": "Engineer",
+        "description": "IoT-based system that accurately monitors an athlete's heart rate and body temperature in real time using sensors and an ESP32, with data sent wirelessly to a web server.",
+        "image": "images/project1.png",
+        "link": "https://belajarmikrokontroler2k23.blogspot.com/2024/06/iot-health-monitoring-system-for-sports.html?m=1"
+    }
+]

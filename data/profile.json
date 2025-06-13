@@ -1,0 +1,31 @@
+{
+    "name": "Gerry Alghifari- Electronics Engineering Technology Student",
+    "description": "I am a student of Electronics Engineering Technology at Politeknik Negeri Semarang with a strong vocational background in electrical power installation.My hands-on experience includes an internship focused on piping and HVAC (Heating, Ventilation, and Air Conditioning) systems, shaping my practical approach to engineering challenges. I enjoy integrating hardware and software to create real-world solutions using platforms such as Arduino, ESP, Raspberry Pi, and STM microcontrollers. I am proficient in Python and C++, and experienced with tools like Arduino IDE, MATLAB, and LabVIEW. I am committed to safety, precision, and continuous learning, and eager to contribute to impactful engineering projects.",
+    "profileImage": "images/profile.JPG",
+    "email": "alghifarigery@gmail.com",
+    "phone": "+62 (895) 064-54729",
+    "socialMedia": [
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/geryalghifari?igsh=a3FjZDF3bmc4aXdu&utm_source=qr"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/geryalghifari12"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Electrical wiring and installation", "icon": "fas fa-bolt", "level": 85},
+        {"name": "PLC Programming", "icon": "fas fa-microchip", "level": 78},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 83},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 81},
+	    {"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
+        {"name": "Digital Office Tools", "icon": "fas fa-briefcase", "level": 90},
+	    {"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
+    ]
+}
