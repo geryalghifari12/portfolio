@@ -12,7 +12,7 @@
         "year": "2024",
         "role": "Engineer",
         "description": "This project involved designing and building an autonomous line follower robot capable of detecting and following a predefined path using infrared sensors. The robot was programmed with basic logic to differentiate between black and white surfaces, allowing it to make decisions at turns and intersections. The goal was to demonstrate fundamental robotics concepts, including sensor integration, motor control, and algorithmic path tracking",
-        "image": "images/linefollower.jpg",
+        "image": "images/linefollower1.jpg",
         "link": "https://belajarmikrokontroler2k23.blogspot.com/2024/06/iot-health-monitoring-system-for-sports.html?m=1"
     },
     {
