@@ -20,7 +20,7 @@
         "year": "2025",
         "role": "Engineer",
         "description": "This project implemented a smart door lock system using Raspberry Pi and OpenCV for facial recognition. The system detects and authenticates a person's face in real time; if the face matches a registered user, the door unlocks. If no authorized face is detected, the door remains locked and an alert notification is automatically sent via Telegram. This project highlights practical applications of computer vision, IoT integration, and real-time security monitoring.",
-        "image": "images/linefollower.jpg",
+        "image": "images/face1.jpg",
         "link": "https://belajarmikrokontroler2k23.blogspot.com/2024/06/iot-health-monitoring-system-for-sports.html?m=1"
     }
 ]
